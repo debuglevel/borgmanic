@@ -1,0 +1,3 @@
+#influxdb==5.4.3
+ruamel.yaml==0.18.2
+influx-line-protocol==0.1.5
